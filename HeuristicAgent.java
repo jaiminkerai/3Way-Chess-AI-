@@ -3,7 +3,7 @@ package threeChess.agents;
 import java.util.*;
 import threeChess.*;
 
-public class Agent22718975 extends Agent {
+public class SmartAgent extends Agent {
 
     private String name = "SmartAgent";
     private final Direction[] neighbours = { Direction.FORWARD, Direction.BACKWARD, Direction.LEFT, Direction.RIGHT };
